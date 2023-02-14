@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "AIOOBE_LoadController",
+        "name": "AIOOBE_LoadController",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [
+            "ZekerZhayard"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
