@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.0-SNAPSHOT"
+version = "1.1-SNAPSHOT"
 group= "io.github.zekerzhayard" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "AIOOBE_LoadController"
 
